@@ -1,0 +1,4 @@
+Message Queue on AWS
+
+Put file to queue:
+aws kinesis put-records --stream-name myqueue --records file://sample.json
