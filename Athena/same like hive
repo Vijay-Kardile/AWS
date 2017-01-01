@@ -1,0 +1,4 @@
+Same like Apache Hive, Only support EXTERNAL table currenlty.
+Query S3 files
+cost: 5$ per 5T data scan
+Use case : to get data on dashboard, report directly from S3
