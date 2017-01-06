@@ -1,0 +1,8 @@
+Data Load Options :
+- Parallel Load to S3
+- AWS Direct Connect
+- AWS Import/Export
+- AWS Kenesis
+- System Integrators
+- AWS Data Migration Service
+- Snowball
