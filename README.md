@@ -12,12 +12,14 @@ AWS Polly         : Text to Speech
 
 ========
 
-RDS - Oracle,SQL Server,PostgreSQL,MySQL,Aurora
+AWS EMR - Bigdata with Hadoop, Hive, Sresto, Spark, Hbase, Impala 
 
-Redis - InMemory
+AWS RDS - Oracle,SQL Server,PostgreSQL,MySQL,Aurora
 
-RedShift - Bigdata
+AWS Redis - InMemory
 
-DynamoDB - NoSQL
+AWS RedShift - Columan Database, Relational Database
+
+AWS DynamoDB - NoSQL
 
 AWS QuickSight - BI/DAshboard
