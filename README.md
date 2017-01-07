@@ -19,3 +19,5 @@ Redis - InMemory
 RedShift - Bigdata
 
 DynamoDB - NoSQL
+
+AWS QuickSight - BI/DAshboard
