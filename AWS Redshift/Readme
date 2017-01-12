@@ -1,0 +1,4 @@
+
+Limitations:
+1.The number of concurrent user connections that can be made to a cluster is 500
+2.
